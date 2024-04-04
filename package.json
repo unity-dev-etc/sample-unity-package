@@ -7,5 +7,18 @@
     {
         "name": "aaaaaaa",
         "email": "aaaaaa@.com"
-    }
+    },
+    "keywords": [
+        "Unity3D",
+        "Unity",
+        "Unity UI",
+        "UI Extensions"
+      ],
+    "samples": [
+        {
+          "displayName": "UI Samples",
+          "description": "Examples and demonstrations of the Unity UI",
+          "path": "Examples~"
+        }
+      ]
 }
