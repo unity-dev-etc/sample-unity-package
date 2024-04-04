@@ -5,7 +5,7 @@
     "description": "A sample description ~~~~~~~~~~~~~~",
     "author": 
     {
-        "name": "aaaaaaa,bbbbbb,cccccc",
-        "email": "aaaaaa@.com,bbbbbb@.com,ccccc@.com"
+        "name": "aaaaaaa",
+        "email": "aaaaaa@.com"
     }
 }
