@@ -8,6 +8,12 @@
         "name": "aaaaaaa",
         "email": "aaaaaa@.com"
     },
+    "contributors": [
+    {
+      "name": "bbbbbb",
+      "twitter": "@bbbbbb
+    }
+    ],
     "keywords": [
         "Unity3D",
         "Unity",
